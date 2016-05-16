@@ -8,10 +8,7 @@
     <title> Nofil nizam website</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-    <!-- 
-    mobile website
-    file:///C:/Users/hp/Desktop/templates/mobiles%20website/web.html
-    -->
+    
     <!-- Bootstrap Stylesheet -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
